@@ -1,5 +1,5 @@
 <h1 align="center">selam ben uzaylı</h1>
-<h3 align="center">bla bla bla bla</h3>
+<h3 align="center">duydunmu</h3>
 
 <center>
 <br>
